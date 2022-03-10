@@ -9,3 +9,5 @@ Using Marc Stans WPF Interop, which allows us to embed a monogame game into a wp
 
 
 The mispelled class names are old versions that have been replaced with fixed correctly spelled versions. Deleting soon. 
+
+Also, Now using TestGame instead of MainGame
